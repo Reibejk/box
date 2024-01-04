@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Weather}\ p\u0159edstavuj\u00ED\ ...\r\n\r\n\ @author\ \ \ \ jm\u00E9no\ autora\r\n\ @version\ \ \ 0.00.000\r\n
+comment1.params=parser
+comment1.target=org.apache.commons.csv.CSVRecord\ hottestHourInFile(org.apache.commons.csv.CSVParser)
+comment2.params=
+comment2.target=org.apache.commons.csv.CSVRecord\ hottestInManyDays()
+comment3.params=currentRow\ largestSoFar
+comment3.target=org.apache.commons.csv.CSVRecord\ getLargestOfTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment4.params=
+comment4.target=void\ testHottestInManyDays()
+comment5.params=
+comment5.target=void\ testHottestInDay()
+numComments=6

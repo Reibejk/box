@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Export
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Export}\ p\u0159edstavuj\u00ED\ ...\r\n\r\n\ @author\ \ \ \ jm\u00E9no\ autora\r\n\ @version\ \ \ 0.00.000\r\n
+comment1.params=parser\ country
+comment1.target=void\ listExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment2.params=parser\ exportItem1\ exportItem2
+comment2.target=void\ listExportersTwoProducts(org.apache.commons.csv.CSVParser,\ java.lang.String,\ java.lang.String)
+comment3.params=parser\ exportItem
+comment3.target=void\ numberOfExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment4.params=parser\ amount
+comment4.target=void\ bigExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment5.params=
+comment5.target=void\ bigExportersTest()
+comment6.params=
+comment6.target=void\ numberOfExportersTest()
+comment7.params=
+comment7.target=void\ twoProductTest()
+comment8.params=
+comment8.target=void\ tester()
+numComments=9
